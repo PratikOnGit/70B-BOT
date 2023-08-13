@@ -3,7 +3,7 @@
 
 
  
-A chatbot that works on trined 70B models initially developed bby META.
+A chatbot that works on trined 70B models initially developed by META.
 
 
 
